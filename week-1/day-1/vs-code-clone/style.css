@@ -1,0 +1,116 @@
+body{
+    background-color:#0e0e0e;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.topLinkDiv{
+    display:flex;
+}
+
+.topLinks a{
+    text-decoration:none;
+    color:gray;
+    padding-right:12px;
+    font-size:16px;
+}
+
+.vsCodeTopLink a{
+    text-decoration:none;
+    color:white;
+    padding-right:20px;
+    font-size:18px;
+    display:flex;
+}
+
+.topLinkDiv{
+    padding-left:120px;
+    padding-right:150px;
+    padding-top:10px;
+}
+
+.banner{
+    color:gray;
+    padding-left:500px;
+    padding-right:450px;
+}
+
+.banner a{
+    color:#4e7cdf;
+}
+
+.border-radius-text{
+    color:gray;
+    padding:6px;
+    border-color: rgb(84, 86, 88);
+    border-style:solid;
+    border-radius: 15px;
+    /*display:inline-block;*/
+    width:fit-content;
+}
+
+.content-1, .content-2{
+    color:white;
+    font-size: 56px;
+    font-weight: 500;
+}
+
+.download-button{
+    font-size:20px;
+    padding:10 20;
+}
+
+.second-content{
+    padding-left:120px;
+    padding-right:150px;
+}
+
+.second-content .imgPart{
+    margin-top:-60px;
+}
+
+.second-content .after-download{
+    color:gray;
+}
+
+.second-content .after-download a{
+    color:#4e7cdf;
+}
+
+.topLinkDiv .text-box{
+    color:black;
+}
+
+.second-content .after-download2{
+    color:gray;
+    font-size:12px;
+}
+
+.second-content .after-download2 a{
+    color:#4e7cdf;
+}
+
+input[type=text]{
+    height:29px;
+    width:200px;
+    background-color:#0e0e0e;
+    border-style:solid;
+    border-radius:4px;
+    color:white;
+}
+
+.topLinkDiv .top-download{
+    height:29px;
+    padding-left:12px;
+    padding-right:12px;
+    color:white;
+    background-color:#4e7cdf;
+}
+
+.second-content .download-button{
+    color:white;
+    background-color:#4e7cdf;
+}
+
+.topLinkDiv .vscode-logo{
+    margin-top:4px;
+}
